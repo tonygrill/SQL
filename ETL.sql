@@ -762,3 +762,4 @@ where outlier = 0     -- Resultado: '2720.25'  Promedio sin Outliers
 SELECT AVG(PRECIO * CANTIDAD) AS Ventas
 FROM venta   -- '11859.99' Promedio sin Outliers
 
+.
